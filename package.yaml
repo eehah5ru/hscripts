@@ -21,6 +21,18 @@ description:         Please see the README on Github at <https://github.com/eeha
 
 dependencies:
 - base >= 4.7 && < 5
+- io-streams
+- attoparsec
+- text
+- mtl
+- errors
+- bytestring
+- conversions
+- filepath
+- MissingH
+- binary
+- directory
+- filepath
 
 library:
   source-dirs: src
