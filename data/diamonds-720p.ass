@@ -1,0 +1,191 @@
+[Script Info]
+; Edited with Jubler subtitle editor
+Title: 
+Original Script: eehah5ru
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+Timer: 100,0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,83,&H00FFFFFF,&H0000FFFF,&H4B000000,&H4B404040,0,0,0,0,100,100,0,0,1,0,2,5,20,20,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:19.95,*Default,,0000,0000,0000,,
+Dialogue: 0,0:00:20.05,0:00:23.95,Default,,0000,0000,0000,,This is not a performance.
+Dialogue: 0,0:00:24.05,0:00:27.95,Default,,0000,0000,0000,,This is a session of treatment,
+Dialogue: 0,0:00:28.05,0:00:30.95,Default,,0000,0000,0000,,time-travelling,
+Dialogue: 0,0:00:31.05,0:00:33.95,Default,,0000,0000,0000,,emotional computing
+Dialogue: 0,0:00:34.05,0:00:39.95,Default,,0000,0000,0000,,and feeling the \Nmateriality of platforms.
+Dialogue: 0,0:00:40.05,0:00:41.95,Default,,0000,0000,0000,,
+Dialogue: 0,0:00:42.05,0:00:44.95,Default,,0000,0000,0000,,This is also a seance
+Dialogue: 0,0:00:45.05,0:00:50.94,Default,,0000,0000,0000,,of tenderness and solidarity\Ntowards those
+Dialogue: 0,0:00:51.04,0:00:57.97,Default,,0000,0000,0000,,who are selling their emotionality \Nand sensibility,
+Dialogue: 0,0:00:58.07,0:01:02.01,Default,,0000,0000,0000,,those who are the slaves of rating.
+Dialogue: 0,0:01:02.11,0:01:06.01,Default,,0000,0000,0000,,And at the same time those
+Dialogue: 0,0:01:06.11,0:01:11.01,Default,,0000,0000,0000,,who are the gods born \Nfrom Google maps,
+Dialogue: 0,0:01:11.11,0:01:14.02,Default,,0000,0000,0000,,the gods of our metadata.
+Dialogue: 0,0:01:14.12,0:01:16.02,Default,,0000,0000,0000,,
+Dialogue: 0,0:01:16.12,0:01:19.02,Default,,0000,0000,0000,,All that’s happening now –
+Dialogue: 0,0:01:19.12,0:01:23.02,Default,,0000,0000,0000,,this is not an opening or a performance
+Dialogue: 0,0:01:23.12,0:01:26.02,Default,,0000,0000,0000,,under the open sky.
+Dialogue: 0,0:01:26.12,0:01:29.02,Default,,0000,0000,0000,,This is a treatment session,
+Dialogue: 0,0:01:29.12,0:01:32.02,Default,,0000,0000,0000,,where the borders
+Dialogue: 0,0:01:32.12,0:01:37.02,Default,,0000,0000,0000,,between doctors and patients\Ndo not exist.
+Dialogue: 0,0:01:37.12,0:01:41.02,Default,,0000,0000,0000,,We are simultaneously doctors
+Dialogue: 0,0:01:41.12,0:01:44.00,Default,,0000,0000,0000,,and patients.
+Dialogue: 0,0:01:44.10,0:01:45.99,Default,,0000,0000,0000,,
+Dialogue: 0,0:01:46.09,0:01:50.99,Default,,0000,0000,0000,,We are kindly asking you \Nto be tender
+Dialogue: 0,0:01:51.09,0:01:53.99,Default,,0000,0000,0000,,with those who are here
+Dialogue: 0,0:01:54.09,0:01:57.99,Default,,0000,0000,0000,,and would come here in close future.
+Dialogue: 0,0:01:58.09,0:02:03.99,Default,,0000,0000,0000,,Our task is to share \Nour warm-heartedness with them,
+Dialogue: 0,0:02:04.09,0:02:10.99,Default,,0000,0000,0000,,to share this emotional labour \Nthat is falling on their shoulders
+Dialogue: 0,0:02:11.09,0:02:16.99,Default,,0000,0000,0000,,when they put a smartphone \Non a dashboard.
+Dialogue: 0,0:02:17.09,0:02:18.99,Default,,0000,0000,0000,,
+Dialogue: 0,0:02:19.09,0:02:21.99,Default,,0000,0000,0000,,Brought by the platform,
+Dialogue: 0,0:02:22.09,0:02:27.99,Default,,0000,0000,0000,,we will unite under the grey sky \Nof a highway.
+Dialogue: 0,0:02:28.09,0:02:31.99,Default,,0000,0000,0000,,We can use this timeframe to relax,
+Dialogue: 0,0:02:32.09,0:02:34.99,Default,,0000,0000,0000,,feeling the warms of the bodies
+Dialogue: 0,0:02:35.09,0:02:38.95,Default,,0000,0000,0000,,who have been sitting at your place before
+Dialogue: 0,0:02:39.05,0:02:41.91,Default,,0000,0000,0000,,and will be sitting after you.
+Dialogue: 0,0:02:42.01,0:02:47.91,Default,,0000,0000,0000,,It will be our interfaces to enter \Ninto protocols,
+Dialogue: 0,0:02:48.01,0:02:51.91,Default,,0000,0000,0000,,smart contracts of our feelings.
+Dialogue: 0,0:02:52.01,0:02:58.91,Default,,0000,0000,0000,,We will become dispersed bodies \Nof Platform Perplex.
+Dialogue: 0,0:02:59.01,0:03:00.91,Default,,0000,0000,0000,,
+Dialogue: 0,0:03:01.01,0:03:06.91,Default,,0000,0000,0000,,Our session will last for 20 minutes.
+Dialogue: 0,0:03:07.01,0:03:08.91,Default,,0000,0000,0000,,
+Dialogue: 0,0:03:09.01,0:03:14.91,Default,,0000,0000,0000,,The session will begin in 30 seconds. 
+Dialogue: 0,0:03:15.01,0:03:44.91,Default,,0000,0000,0000,,
+Dialogue: 0,0:03:45.01,0:03:52.92,Default,,0000,0000,0000,,I am concentrating on being relaxed \Nand happy in this present moment.
+Dialogue: 0,0:03:53.02,0:03:58.98,Default,,0000,0000,0000,,My attention on the highway sound is growing.
+Dialogue: 0,0:03:59.08,0:04:06.01,Default,,0000,0000,0000,,I like this sound, it’s peaceful, \Ndeep and powerful.
+Dialogue: 0,0:04:06.11,0:04:09.99,Default,,0000,0000,0000,,I see the diamonds falling.
+Dialogue: 0,0:04:10.09,0:04:16.02,Default,,0000,0000,0000,,I am focusing on their form, its transparency.
+Dialogue: 0,0:04:16.14,0:04:20.10,Default,,0000,0000,0000,,Sharpness of their edges.
+Dialogue: 0,0:04:20.20,0:04:26.14,Default,,0000,0000,0000,,On the light that is lying on the diamonds.\N
+Dialogue: 0,0:04:26.24,0:04:30.14,Default,,0000,0000,0000,,I am enjoying this view.
+Dialogue: 0,0:04:30.24,0:04:38.13,Default,,0000,0000,0000,,Now I’m concentrating \Non being aware of each breath.
+Dialogue: 0,0:04:38.23,0:04:40.15,Default,,0000,0000,0000,,
+Dialogue: 0,0:04:40.25,0:04:47.15,Default,,0000,0000,0000,,My attention on the breath \Nis continuous.
+Dialogue: 0,0:04:47.25,0:04:54.15,Default,,0000,0000,0000,,My attention on  the breath as it begins,
+Dialogue: 0,0:04:54.25,0:04:59.18,Default,,0000,0000,0000,,and my abdomen starts to expand.
+Dialogue: 0,0:04:59.28,0:05:07.24,Default,,0000,0000,0000,,I continue to pay attention \Nas my abdomen rises and falls \Nwith each breath, 
+Dialogue: 0,0:05:07.34,0:05:14.31,Default,,0000,0000,0000,,like a person going high and low on a hammock.
+Dialogue: 0,0:05:14.41,0:05:20.40,Default,,0000,0000,0000,,Going high and low on a hammock.
+Dialogue: 0,0:05:20.50,0:05:28.45,Default,,0000,0000,0000,,Like a swing, \Nmy breath slows down at each end.
+Dialogue: 0,0:05:28.55,0:05:36.51,Default,,0000,0000,0000,,I follow it all the way as it slows down, \Nand starts again.
+Dialogue: 0,0:05:36.61,0:05:43.61,Default,,0000,0000,0000,,I embrace my breath \Nwith all my care and attention.
+Dialogue: 0,0:05:43.71,0:05:45.69,Default,,0000,0000,0000,,
+Dialogue: 0,0:05:45.79,0:05:51.78,Default,,0000,0000,0000,,Thoughts stay in the background.
+Dialogue: 0,0:05:51.96,0:05:59.91,Default,,0000,0000,0000,,I enjoy the rhythmic rise \Nand fall of my abdomen;
+Dialogue: 0,0:06:00.01,0:06:05.97,Default,,0000,0000,0000,,I enjoy staying in the here and the now.
+Dialogue: 0,0:06:06.08,0:06:13.03,Default,,0000,0000,0000,,I have stopped running forward\N\Nand backward.
+Dialogue: 0,0:06:13.13,0:06:19.04,Default,,0000,0000,0000,,I am infinite as the loop of data traffic.
+Dialogue: 0,0:06:19.14,0:06:24.02,Default,,0000,0000,0000,,The loop goes circle-wise
+Dialogue: 0,0:06:24.12,0:06:30.06,Default,,0000,0000,0000,,always random and in different directions,
+Dialogue: 0,0:06:30.16,0:06:34.16,Default,,0000,0000,0000,,but never stopping.
+Dialogue: 0,0:06:34.28,0:06:41.25,Default,,0000,0000,0000,,My mind keeps producing thoughts.
+Dialogue: 0,0:06:41.35,0:06:46.32,Default,,0000,0000,0000,,I do not follow the thoughts.
+Dialogue: 0,0:06:46.42,0:06:52.38,Default,,0000,0000,0000,,I concentrate on my breath.
+Dialogue: 0,0:06:52.48,0:06:58.38,Default,,0000,0000,0000,,I am comfortable and at ease.
+Dialogue: 0,0:06:58.48,0:07:03.40,Default,,0000,0000,0000,,I feel my neighbour.
+Dialogue: 0,0:07:03.50,0:07:08.42,Default,,0000,0000,0000,,Frou-frou of her clothes.
+Dialogue: 0,0:07:08.52,0:07:13.39,Default,,0000,0000,0000,,I concentrate on every little detail.
+Dialogue: 0,0:07:13.49,0:07:20.43,Default,,0000,0000,0000,,I see how the data flow before me.
+Dialogue: 0,0:07:20.66,0:07:25.55,Default,,0000,0000,0000,,Data are fragmented.
+Dialogue: 0,0:07:25.65,0:07:29.47,Default,,0000,0000,0000,,All by pieces.
+Dialogue: 0,0:07:29.57,0:07:33.42,Default,,0000,0000,0000,,They travel through time.
+Dialogue: 0,0:07:33.52,0:07:37.43,Default,,0000,0000,0000,,With inhuman speed.
+Dialogue: 0,0:07:37.53,0:07:43.42,Default,,0000,0000,0000,,The speed is always changing. 
+Dialogue: 0,0:07:43.52,0:07:49.44,Default,,0000,0000,0000,,Subtle frou-frou is the only trace \NI can feel.
+Dialogue: 0,0:07:49.56,0:07:55.53,Default,,0000,0000,0000,,The wind gently kisses my arms.
+Dialogue: 0,0:07:55.63,0:08:03.60,Default,,0000,0000,0000,,I am at the beginning \Nand simultaneously at the end \Nof these flows.
+Dialogue: 0,0:08:03.70,0:08:11.62,Default,,0000,0000,0000,,I feel how those flows are leaking out \Nthrough the gaps between us.
+Dialogue: 0,0:08:11.72,0:08:18.66,Default,,0000,0000,0000,,Our breath is controlling the speed of data.
+Dialogue: 0,0:08:18.78,0:08:25.75,Default,,0000,0000,0000,,I think of a face of person \Nsitting next to me.
+Dialogue: 0,0:08:25.85,0:08:29.77,Default,,0000,0000,0000,,I focus on the eyes.
+Dialogue: 0,0:08:29.87,0:08:33.83,Default,,0000,0000,0000,,The eyes are blinking.
+Dialogue: 0,0:08:33.95,0:08:39.90,Default,,0000,0000,0000,,Our blinking is being synchronised \Nwith leds of routers.
+Dialogue: 0,0:08:40.00,0:08:45.96,Default,,0000,0000,0000,,Routers that are controlling the data flows.
+Dialogue: 0,0:08:46.13,0:08:54.13,Default,,0000,0000,0000,,Fragmenting them \Nand building them on another level.
+Dialogue: 0,0:08:54.25,0:08:56.25,Default,,0000,0000,0000,,
+Dialogue: 0,0:08:56.39,0:09:04.35,Default,,0000,0000,0000,,As we in this car decreasing \Nand increasing the gap between us.
+Dialogue: 0,0:09:04.45,0:09:10.38,Default,,0000,0000,0000,,We are all forming an office for the highway.
+Dialogue: 0,0:09:10.48,0:09:14.36,Default,,0000,0000,0000,,An emotional cluster.
+Dialogue: 0,0:09:14.46,0:09:20.35,Default,,0000,0000,0000,,An emotional cluster \Nwithout a permanent address.
+Dialogue: 0,0:09:20.45,0:09:28.38,Default,,0000,0000,0000,,Standing on a road split \Nbetween virtual and another virtual.
+Dialogue: 0,0:09:28.48,0:09:34.41,Default,,0000,0000,0000,,I am inside of a reservoir of computing
+Dialogue: 0,0:09:34.51,0:09:40.45,Default,,0000,0000,0000,,And at the same time \NI am the reservoir myself.
+Dialogue: 0,0:09:40.55,0:09:46.49,Default,,0000,0000,0000,,We are all feeding the clouds \Nthe same way
+Dialogue: 0,0:09:46.59,0:09:52.56,Default,,0000,0000,0000,,as we are heating the air \Ninside of the car.
+Dialogue: 0,0:09:52.70,0:09:59.70,Default,,0000,0000,0000,,My neighbour is breathing out, \NI breathe her air in.
+Dialogue: 0,0:10:00.04,0:10:04.99,Default,,0000,0000,0000,,Breathing out
+Dialogue: 0,0:10:05.09,0:10:09.99,Default,,0000,0000,0000,,Breathing in
+Dialogue: 0,0:10:10.09,0:10:14.99,Default,,0000,0000,0000,,Breathing out
+Dialogue: 0,0:10:15.09,0:10:19.99,Default,,0000,0000,0000,,Breathing in
+Dialogue: 0,0:10:20.09,0:10:39.99,Default,,0000,0000,0000,,
+Dialogue: 0,0:10:40.09,0:10:45.98,Default,,0000,0000,0000,,My ID-card is with me now
+Dialogue: 0,0:10:46.08,0:10:50.99,Default,,0000,0000,0000,,I get it out of my pocket.
+Dialogue: 0,0:10:51.09,0:10:55.01,Default,,0000,0000,0000,,I touch it.
+Dialogue: 0,0:10:55.11,0:11:00.03,Default,,0000,0000,0000,,I feel its materiality.
+Dialogue: 0,0:11:00.13,0:11:04.05,Default,,0000,0000,0000,,Shaggy surface.
+Dialogue: 0,0:11:04.15,0:11:08.07,Default,,0000,0000,0000,,Rounded edgings.
+Dialogue: 0,0:11:08.17,0:11:10.10,Default,,0000,0000,0000,,
+Dialogue: 0,0:11:10.20,0:11:16.12,Default,,0000,0000,0000,,My neighbour has a biometrical ID. 
+Dialogue: 0,0:11:16.22,0:11:24.09,Default,,0000,0000,0000,,I imagine how her fingerprints \Nare conveniently settled down\N inside of a chip.\N
+Dialogue: 0,0:11:24.19,0:11:30.09,Default,,0000,0000,0000,,I imagine a leaf of Aloe Vera.
+Dialogue: 0,0:11:30.19,0:11:34.17,Default,,0000,0000,0000,,Its velvety lubricity.
+Dialogue: 0,0:11:34.29,0:11:36.27,Default,,0000,0000,0000,,
+Dialogue: 0,0:11:36.37,0:11:44.31,Default,,0000,0000,0000,,I close my eyes \Nand imagine this chip and a leaf.
+Dialogue: 0,0:11:44.41,0:11:50.36,Default,,0000,0000,0000,,They are almost indistinguishable.
+Dialogue: 0,0:11:50.46,0:11:56.44,Default,,0000,0000,0000,,Two surfaces of the same shagginess
+Dialogue: 0,0:11:56.54,0:12:02.52,Default,,0000,0000,0000,,With the lubricants of our emotions\N underneath.
+Dialogue: 0,0:12:02.62,0:12:07.59,Default,,0000,0000,0000,,Needles and pins on them.
+Dialogue: 0,0:12:07.69,0:12:11.65,Default,,0000,0000,0000,,And wetness inside.
+Dialogue: 0,0:12:11.75,0:12:15.73,Default,,0000,0000,0000,,Shagginess and wetness
+Dialogue: 0,0:12:15.83,0:12:22.73,Default,,0000,0000,0000,,blooming from the data-centers \Nand server rooms.
+Dialogue: 0,0:12:22.83,0:12:26.70,Default,,0000,0000,0000,,This bloom is an ambassador
+Dialogue: 0,0:12:26.80,0:12:34.75,Default,,0000,0000,0000,,of new tactility \Nof previously unknown citizenship.\N
+Dialogue: 0,0:12:34.85,0:12:36.83,Default,,0000,0000,0000,,
+Dialogue: 0,0:12:36.93,0:12:42.90,Default,,0000,0000,0000,,Citizenship of territories of computation
+Dialogue: 0,0:12:43.00,0:12:50.95,Default,,0000,0000,0000,,that are fragmented \Nand being continuously integrated
+Dialogue: 0,0:12:51.05,0:12:58.02,Default,,0000,0000,0000,,by agile methods of software development.
+Dialogue: 0,0:12:58.12,0:13:00.07,Default,,0000,0000,0000,,
+Dialogue: 0,0:13:00.17,0:13:06.08,Default,,0000,0000,0000,,I think of a driver as a platform worker.
+Dialogue: 0,0:13:06.18,0:13:11.09,Default,,0000,0000,0000,,As an ambassador of this territory
+Dialogue: 0,0:13:11.19,0:13:17.06,Default,,0000,0000,0000,,Cutting our desires \Nand forming our speeches
+Dialogue: 0,0:13:17.16,0:13:25.08,Default,,0000,0000,0000,,according to the pulse \Nof the traffic lights of our cities.
+Dialogue: 0,0:13:25.20,0:13:33.17,Default,,0000,0000,0000,,Here in the car the part of air \Nwas warmed up by him or her too.
+Dialogue: 0,0:13:33.27,0:13:53.24,Default,,0000,0000,0000,,
+Dialogue: 0,0:13:53.34,0:14:01.32,Default,,0000,0000,0000,,I see how my body borders \Nare becoming transparent.
+Dialogue: 0,0:14:01.42,0:14:07.33,Default,,0000,0000,0000,,I am afraid \Nand at the same time I feel relief.
+Dialogue: 0,0:14:07.43,0:14:13.36,Default,,0000,0000,0000,,I am opening up loops in my mind.
+Dialogue: 0,0:14:13.56,0:14:19.54,Default,,0000,0000,0000,,I am starting to feel no borders.
+Dialogue: 0,0:14:19.64,0:14:25.59,Default,,0000,0000,0000,,I am a reservoir of emotional computing.
+Dialogue: 0,0:14:25.69,0:14:29.67,Default,,0000,0000,0000,,My hands are shaking.
+Dialogue: 0,0:14:29.78,0:14:35.73,Default,,0000,0000,0000,,I am appearing here, \Nand simultaneously there.
+Dialogue: 0,0:14:35.83,0:14:39.78,Default,,0000,0000,0000,,My senses rooted in wires.
+Dialogue: 0,0:14:39.88,0:14:43.87,Default,,0000,0000,0000,,Wires that go to my neighbour
+Dialogue: 0,0:14:44.05,0:14:50.05,Default,,0000,0000,0000,,Through her transparency and shagginess
+Dialogue: 0,0:14:50.22,0:14:55.22,*Default,,0000,0000,0000,,Fermenting and melting together
+Dialogue: 0,0:14:55.35,0:15:01.35,Default,,0000,0000,0000,,with all cloud services on our path.
+Dialogue: 0,0:15:01.45,0:15:08.39,Default,,0000,0000,0000,,I am becoming fragmentary \Nand noncontiguous.
+Dialogue: 0,0:15:08.49,0:15:14.32,Default,,0000,0000,0000,,How to compute this fragmentation?
+Dialogue: 0,0:15:14.42,0:15:20.18,Default,,0000,0000,0000,,How to  appear somewhere else? 
+Dialogue: 0,0:15:20.28,0:15:40.11,Default,,0000,0000,0000,,
+Dialogue: 0,0:15:40.21,0:15:48.03,Default,,0000,0000,0000,,Focusing on my breath \Nkeeps me from getting lost in thought.
+Dialogue: 0,0:15:48.13,0:15:55.88,Default,,0000,0000,0000,,I notice sounds and skin sensations \Nwithout reacting to them.
+Dialogue: 0,0:15:55.98,0:16:03.79,Default,,0000,0000,0000,,I smile at disturbances\Nsuch as memories,\Nlittle itches and noises.
+Dialogue: 0,0:16:03.89,0:16:09.69,Default,,0000,0000,0000,,Smiling relaxes me. I feel content.
+Dialogue: 0,0:16:09.79,0:16:16.65,Default,,0000,0000,0000,,With each breath \NI arrive in the here and the now —
+Dialogue: 0,0:16:16.75,0:16:22.71,Default,,0000,0000,0000,,I am sitting upright, \Nbreathing comfortably.
+Dialogue: 0,0:16:22.81,0:16:29.72,Default,,0000,0000,0000,,My mind is peaceful, \Nmy body free of tension.
+Dialogue: 0,0:16:29.82,0:16:35.71,Default,,0000,0000,0000,,I am calm and rested.
+Dialogue: 0,0:16:35.81,0:16:40.71,Default,,0000,0000,0000,,Calm and rested.
+Dialogue: 0,0:16:40.81,0:16:47.71,Default,,0000,0000,0000,,I feel at home \Nhere under this highway.
+Dialogue: 0,0:16:47.81,0:16:51.74,Default,,0000,0000,0000,,Here
+Dialogue: 0,0:16:51.84,0:16:55.78,Default,,0000,0000,0000,,Under highway.
+Dialogue: 0,0:16:55.88,0:17:15.86,Default,,0000,0000,0000,,
